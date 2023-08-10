@@ -12,4 +12,4 @@ someone enters or exits a specific region.
 
 ![dwell](https://github.com/shagunslokre/Dog_Collar_application/assets/43886895/ab775f38-0b67-4f8e-89ee-6b5f4aa37cfc)
 ![trigger](https://github.com/shagunslokre/Dog_Collar_application/assets/43886895/0e34595e-6371-44eb-ad7d-bdb64cd60bda)
-
+![exiting](https://github.com/shagunslokre/Dog_Collar_application/assets/43886895/1994bf54-d9dd-4279-bdc5-c8e485d5c719)
