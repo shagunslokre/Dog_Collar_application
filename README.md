@@ -8,3 +8,8 @@ messages or alerts, send targeted social media advertisements, track vehicle fle
 particular technology, or offer location-based marketing data. Some geofences are set up to
 monitor activity in secure regions, allowing management to receive warnings whenever
 someone enters or exits a specific region.
+
+
+![dwell](https://github.com/shagunslokre/Dog_Collar_application/assets/43886895/ab775f38-0b67-4f8e-89ee-6b5f4aa37cfc)
+![trigger](https://github.com/shagunslokre/Dog_Collar_application/assets/43886895/0e34595e-6371-44eb-ad7d-bdb64cd60bda)
+
